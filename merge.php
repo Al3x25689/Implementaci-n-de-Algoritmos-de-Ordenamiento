@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h2>⚡ Merge Sort - Orden Alfabético</h2>
+    <h2> Merge Sort - Orden Alfabético</h2>
 
     <div class="result">
     <?php
