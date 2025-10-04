@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h2>🔥 Bubble Sort - Orden Descendente</h2>
+    <h2> Bubble Sort - Orden Descendente</h2>
 
     <div class="result">
     <?php
