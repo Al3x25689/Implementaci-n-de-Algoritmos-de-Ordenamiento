@@ -8,9 +8,9 @@
 <body>
     <h1>🎮 Ejercicios de Lógica - Arcade Sort 🎮</h1>
     <div class="container">
-        <a href="bubble.php" class="btn">🔥 Bubble Sort</a>
-        <a href="merge.php" class="btn">⚡ Merge Sort</a>
-        <a href="insertion.php" class="btn">👾 Insertion Sort</a>
+        <a href="bubble.php" class="btn"> Bubble Sort</a>
+        <a href="merge.php" class="btn"> Merge Sort</a>
+        <a href="insertion.php" class="btn"> Insertion Sort</a>
     </div>
     <footer>
        Al3x256
